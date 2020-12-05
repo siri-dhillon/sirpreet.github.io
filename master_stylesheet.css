@@ -1,0 +1,15 @@
+﻿/*
+The basic format of a css is: 
+
+	sleected tag{
+		property: value;
+	}
+
+*/
+
+h1{
+	color: green;
+	/*align-self: right;*/
+}
+
+/* this is the end of the master style sheet */
